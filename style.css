@@ -107,6 +107,6 @@ border-radius:20px;}
 right:35px;
 background:black; border-radius:10px;}
 .left{padding-right:20px; padding-right:30px;}
-.hero-section{height:70vh;}}
+.hero-section{height:90vh;}}
 
 @media(max-width:670px){.left{max-width:350px;}}
